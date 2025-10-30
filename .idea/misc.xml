@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/Creational/pom.xml" />
         <option value="$PROJECT_DIR$/creational-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/structural-patterns/pom.xml" />
       </list>
     </option>
   </component>
